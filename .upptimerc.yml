@@ -17,8 +17,14 @@ sites:
     url: https://anonyme-unterverdiener.de/literatur/
   - name: Chairvorlage
     url: https://anonyme-unterverdiener.de/files/UA-Online-Chairvorlage-dt.pdf
-  - name: Beispielliteraturlink
+  - name: Meetingsmappe Deutsch
     url: https://anonyme-unterverdiener.de/files/UA%20Meetingsmappe%20Deutsch.pdf
+  - name: Meetingsmappe DE / EN
+    url: https://anonyme-unterverdiener.de/files/UA_pages_en-de_new.pdf
+  - name: UA Reader DE / EN
+    url: https://anonyme-unterverdiener.de/files/UA_Reader_new.pdf
+  - name: Fragebogen C-PTSD
+    url: https://anonyme-unterverdiener.de/files/Fragebogen%20C-PTSD.pdf
 
 #status-website:
 #  # Add your custom domain name, or remove the `cname` line if you don't have a domain
