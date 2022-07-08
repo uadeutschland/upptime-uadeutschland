@@ -19,8 +19,6 @@ sites:
     url: https://anonyme-unterverdiener.de/files/UA-Online-Chairvorlage-dt.pdf
   - name: Beispielliteraturlink
     url: https://anonyme-unterverdiener.de/files/UA%20Meetingsmappe%20Deutsch.pdf
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
