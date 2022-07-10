@@ -30,7 +30,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://https://anonyme-unterverdiener.de/upptime)
+[**Visit our status website →**](https://anonyme-unterverdiener.de/upptime)
 
 ## 📄 License
 
