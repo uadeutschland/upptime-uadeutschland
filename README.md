@@ -1,4 +1,4 @@
-# [📈 Live Status](https://anonyme-unterverdiener.de/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://anonyme-unterverdiener.de/upptime-uadeutschland): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Underearners Anonymous Web-Service](https://uadeutschland.github.io), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -30,7 +30,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://anonyme-unterverdiener.de/upptime)
+[**Visit our status website →**](https://anonyme-unterverdiener.de/upptime-uadeutschland)
 
 ## 📄 License
 
