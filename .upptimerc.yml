@@ -35,7 +35,7 @@ status-website:
  name: upptime
  
 #  theme: dark
- introTitle: "**Upptime** überprüft die Seite der Anonymen Unterverdiener"
+ introTitle: "Upptime überprüft die Seite der Anonymen Unterverdiener"
  introMessage: Sie benutzt **real-time** Daten vom [GitHub repository](https://github.com/uadeutschland/upptime-uadeutschland)
  navbar:
    - title: UA Website
