@@ -41,10 +41,10 @@ status-website:
      href: https://anonyme-unterverdiener.de
    - title: GitHub
      href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://anonyme-unterverdiener.de/assets/css/menue.css
-    - rel: stylesheet
-      href: https://anonyme-unterverdiener.de/assets/css/uastyle.css
+ links:
+   - rel: stylesheet
+     href: https://anonyme-unterverdiener.de/assets/css/menue.css
+   - rel: stylesheet
+     href: https://anonyme-unterverdiener.de/assets/css/uastyle.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
