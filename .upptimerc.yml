@@ -46,5 +46,6 @@ status-website:
      href: https://anonyme-unterverdiener.de/assets/css/menue.css
    - rel: stylesheet
      href: https://anonyme-unterverdiener.de/assets/css/uastyle.css
+ css: "section.svelte-8lnl4f { display: none;}"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
