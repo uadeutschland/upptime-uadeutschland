@@ -32,10 +32,11 @@ status-website:
 #  cname: anonyme-unterverdiener.de/upptime-uadeutschland
  baseUrl: /upptime-uadeutschland
  logoUrl: https://raw.githubusercontent.com/uadeutschland/uadeutschland.github.io/main/assets/images/ua-logo.png
+ name: upptime
  
 #  theme: dark
- introTitle: "**Upptime** überprüft die Seite der Anonymen Unterverdiener regelmässig, ob sie funktioniert"
- introMessage: Sie benutzt **real-time** daten vom [GitHub repository](https://github.com/upptime/upptime)
+ introTitle: "**Upptime** überprüft die Seite der Anonymen Unterverdiener"
+ introMessage: Sie benutzt **real-time** Daten vom [GitHub repository](https://github.com/uadeutschland/upptime-uadeutschland)
  navbar:
    - title: UA Website
      href: https://anonyme-unterverdiener.de
