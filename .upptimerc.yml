@@ -29,11 +29,11 @@ sites:
 status-website:
  # Add your custom domain name, or remove the `cname` line if you don't have a domain
  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
- cname: anonyme-unterverdiener.de
+ cname: anonyme-unterverdiener.de/upptime-uadeutschland/
 #  baseUrl: /upptime-uadeutschland
  logoUrl: https://github.com/uadeutschland/uadeutschland.github.io/blob/main/assets/images/ua-logo.png
  name: Upptime
- theme: dark
+#  theme: dark
  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime)
  navbar:
