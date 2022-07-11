@@ -44,7 +44,7 @@ status-website:
      href: https://github.com/$OWNER/$REPO
  links:
    - rel: stylesheet
-     href: https://anonyme-unterverdiener.de/assets/css/menue.css
+     href: https://anonyme-unterverdiener.de/assets/css/menu.css
    - rel: stylesheet
      href: https://anonyme-unterverdiener.de/assets/css/uastyle.css
  css: "section.svelte-8lnl4f { display: none;}"
