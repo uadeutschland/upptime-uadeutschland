@@ -4,9 +4,9 @@
     "url": "https://anonyme-unterverdiener.de/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 215,
     "timeMonth": 243,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "12 Schritte",
     "url": "https://anonyme-unterverdiener.de/12schritte/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "12-schritte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 43,
     "timeMonth": 47,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Symptome",
     "url": "https://anonyme-unterverdiener.de/symptome/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "symptome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 36,
     "timeMonth": 46,
     "timeYear": 57,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Werkzeuge",
     "url": "https://anonyme-unterverdiener.de/werkzeuge/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "werkzeuge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 40,
     "timeMonth": 43,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Meetings",
     "url": "https://anonyme-unterverdiener.de/meetings/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetings",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 36,
     "timeMonth": 40,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Literatur",
     "url": "https://anonyme-unterverdiener.de/literatur/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "literatur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +115,18 @@
     "timeWeek": 42,
     "timeMonth": 45,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Chairvorlage",
     "url": "https://anonyme-unterverdiener.de/files/UA-Online-Chairvorlage-dt.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "chairvorlage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,16 +135,18 @@
     "timeWeek": 49,
     "timeMonth": 61,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Meetingsmappe Deutsch",
     "url": "https://anonyme-unterverdiener.de/files/UA%20Meetingsmappe%20Deutsch.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetingsmappe-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,16 +155,18 @@
     "timeWeek": 39,
     "timeMonth": 49,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Meetingsmappe DE / EN",
     "url": "https://anonyme-unterverdiener.de/files/UA_pages_en-de_new.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetingsmappe-de-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,16 +175,18 @@
     "timeWeek": 60,
     "timeMonth": 50,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "UA Reader DE / EN",
     "url": "https://anonyme-unterverdiener.de/files/UA_Reader_new.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "ua-reader-de-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +195,18 @@
     "timeWeek": 152,
     "timeMonth": 228,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Fragebogen C-PTSD",
     "url": "https://anonyme-unterverdiener.de/files/Fragebogen%20C-PTSD.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "fragebogen-c-ptsd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,6 +215,8 @@
     "timeWeek": 55,
     "timeMonth": 43,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
