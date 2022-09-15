@@ -4,19 +4,19 @@
     "url": "https://anonyme-unterverdiener.de/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 252,
-    "timeDay": 168,
-    "timeWeek": 210,
+    "timeDay": 196,
+    "timeWeek": 215,
     "timeMonth": 241,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-09-15": 75
+      "2022-09-15": 96
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://anonyme-unterverdiener.de/12schritte/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "12-schritte",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 54,
-    "timeDay": 15,
-    "timeWeek": 40,
-    "timeMonth": 46,
+    "timeDay": 28,
+    "timeWeek": 41,
+    "timeMonth": 47,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2022-09-15": 75
+      "2022-09-15": 96
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://anonyme-unterverdiener.de/symptome/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "symptome",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 57,
-    "timeDay": 14,
-    "timeWeek": 34,
+    "timeDay": 28,
+    "timeWeek": 36,
     "timeMonth": 45,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://anonyme-unterverdiener.de/werkzeuge/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "werkzeuge",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 53,
-    "timeDay": 15,
-    "timeWeek": 37,
+    "timeDay": 28,
+    "timeWeek": 38,
     "timeMonth": 42,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://anonyme-unterverdiener.de/meetings/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetings",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 52,
-    "timeDay": 14,
-    "timeWeek": 34,
-    "timeMonth": 39,
+    "timeDay": 28,
+    "timeWeek": 36,
+    "timeMonth": 40,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://anonyme-unterverdiener.de/literatur/",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "literatur",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 55,
-    "timeDay": 17,
-    "timeWeek": 39,
+    "timeDay": 29,
+    "timeWeek": 40,
     "timeMonth": 44,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://anonyme-unterverdiener.de/files/UA-Online-Chairvorlage-dt.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "chairvorlage",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 71,
-    "timeDay": 24,
-    "timeWeek": 46,
-    "timeMonth": 60,
+    "timeDay": 40,
+    "timeWeek": 49,
+    "timeMonth": 61,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://anonyme-unterverdiener.de/files/UA%20Meetingsmappe%20Deutsch.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetingsmappe-deutsch",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 59,
-    "timeDay": 16,
-    "timeWeek": 36,
+    "timeDay": 33,
+    "timeWeek": 40,
     "timeMonth": 48,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://anonyme-unterverdiener.de/files/UA_pages_en-de_new.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "meetingsmappe-de-en",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 59,
-    "timeDay": 17,
+    "timeDay": 30,
     "timeWeek": 55,
     "timeMonth": 49,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://anonyme-unterverdiener.de/files/UA_Reader_new.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "ua-reader-de-en",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
-    "time": 219,
-    "timeDay": 63,
-    "timeWeek": 143,
-    "timeMonth": 223,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
+    "time": 222,
+    "timeDay": 190,
+    "timeWeek": 177,
+    "timeMonth": 230,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://anonyme-unterverdiener.de/files/Fragebogen%20C-PTSD.pdf",
     "icon": "https://favicons.githubusercontent.com/anonyme-unterverdiener.de",
     "slug": "fragebogen-c-ptsd",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.90%",
     "time": 53,
-    "timeDay": 19,
+    "timeDay": 30,
     "timeWeek": 51,
-    "timeMonth": 42,
+    "timeMonth": 43,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2022-09-15": 74
+      "2022-09-15": 96
     }
   }
 ]
