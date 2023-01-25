@@ -4,11 +4,11 @@
     "url": "https://anonyme-unterverdiener.de/",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 263,
     "timeDay": 1625,
@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "12-schritte",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 51,
     "timeDay": 62,
     "timeWeek": 62,
     "timeMonth": 55,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2022-09-15": 96
     }
   },
@@ -47,18 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "symptome",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 52,
     "timeDay": 62,
     "timeWeek": 64,
     "timeMonth": 55,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2022-09-15": 96
     }
   },
@@ -68,18 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "werkzeuge",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 50,
     "timeDay": 60,
     "timeWeek": 59,
     "timeMonth": 57,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-09-15": 96
     }
   },
@@ -90,9 +87,9 @@
     "slug": "meetings",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 50,
     "timeDay": 61,
@@ -100,7 +97,6 @@
     "timeMonth": 55,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-09-15": 96
     }
   },
@@ -111,9 +107,9 @@
     "slug": "literatur",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 51,
     "timeDay": 63,
@@ -121,7 +117,6 @@
     "timeMonth": 54,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2022-09-15": 96
     }
   },
@@ -132,9 +127,9 @@
     "slug": "chairvorlage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 66,
     "timeDay": 73,
@@ -142,7 +137,6 @@
     "timeMonth": 66,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2022-09-15": 96
     }
   },
@@ -153,9 +147,9 @@
     "slug": "meetingsmappe-deutsch",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 58,
     "timeDay": 65,
@@ -163,7 +157,6 @@
     "timeMonth": 65,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
       "2022-09-15": 96
     }
   },
@@ -174,9 +167,9 @@
     "slug": "meetingsmappe-de-en",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 56,
     "timeDay": 69,
@@ -184,7 +177,6 @@
     "timeMonth": 58,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
       "2022-09-15": 96
     }
   },
@@ -195,8 +187,8 @@
     "slug": "ua-reader-de-en",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 209,
@@ -205,7 +197,6 @@
     "timeMonth": 218,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
       "2022-09-15": 96
     }
   },
@@ -216,8 +207,8 @@
     "slug": "fragebogen-c-ptsd",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 51,
@@ -226,7 +217,6 @@
     "timeMonth": 53,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
       "2022-09-15": 96
     }
   }
