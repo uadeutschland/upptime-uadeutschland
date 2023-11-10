@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 233,
-    "timeWeek": 295,
-    "timeMonth": 271,
+    "timeDay": 305,
+    "timeWeek": 264,
+    "timeMonth": 272,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2023-01-25": 42
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 47,
-    "timeDay": 19,
-    "timeWeek": 59,
-    "timeMonth": 62,
+    "timeDay": 10,
+    "timeWeek": 47,
+    "timeMonth": 57,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2023-01-25": 29
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 48,
-    "timeDay": 15,
-    "timeWeek": 67,
-    "timeMonth": 64,
+    "time": 47,
+    "timeDay": 10,
+    "timeWeek": 53,
+    "timeMonth": 62,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 46,
-    "timeDay": 13,
-    "timeWeek": 62,
-    "timeMonth": 58,
+    "time": 45,
+    "timeDay": 11,
+    "timeWeek": 51,
+    "timeMonth": 56,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2023-01-25": 28
@@ -92,8 +92,8 @@
     "uptimeYear": "100.00%",
     "time": 48,
     "timeDay": 14,
-    "timeWeek": 68,
-    "timeMonth": 62,
+    "timeWeek": 54,
+    "timeMonth": 60,
     "timeYear": 47,
     "dailyMinutesDown": {}
   },
@@ -109,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 12,
-    "timeWeek": 81,
-    "timeMonth": 66,
-    "timeYear": 45,
+    "timeDay": 10,
+    "timeWeek": 67,
+    "timeMonth": 65,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   },
   {
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 28,
-    "timeWeek": 69,
-    "timeMonth": 66,
+    "timeDay": 24,
+    "timeWeek": 59,
+    "timeMonth": 64,
     "timeYear": 56,
     "dailyMinutesDown": {}
   },
@@ -145,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 50,
-    "timeWeek": 89,
-    "timeMonth": 71,
+    "timeDay": 15,
+    "timeWeek": 78,
+    "timeMonth": 70,
     "timeYear": 51,
     "dailyMinutesDown": {}
   },
@@ -163,10 +163,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 24,
-    "timeWeek": 64,
-    "timeMonth": 60,
-    "timeYear": 49,
+    "timeDay": 11,
+    "timeWeek": 51,
+    "timeMonth": 59,
+    "timeYear": 48,
     "dailyMinutesDown": {}
   },
   {
@@ -175,19 +175,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "ua-reader-de-en",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 110,
-    "timeWeek": 484,
-    "timeMonth": 288,
-    "timeYear": 212,
-    "dailyMinutesDown": {
-      "2023-11-09": 11
-    }
+    "timeDay": 114,
+    "timeWeek": 129,
+    "timeMonth": 286,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fragebogen C-PTSD",
@@ -201,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 11,
-    "timeWeek": 68,
-    "timeMonth": 62,
+    "timeDay": 25,
+    "timeWeek": 59,
+    "timeMonth": 61,
     "timeYear": 46,
     "dailyMinutesDown": {}
   }
