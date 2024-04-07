@@ -130,18 +130,20 @@
     "url": "https://anonyme-unterverdiener.de/files/UA%20Meetingsmappe%20Deutsch.pdf",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "meetingsmappe-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 50,
-    "timeDay": 22,
-    "timeWeek": 56,
-    "timeMonth": 39,
-    "timeYear": 50,
-    "dailyMinutesDown": {}
+    "time": 54,
+    "timeDay": 1014,
+    "timeWeek": 300,
+    "timeMonth": 100,
+    "timeYear": 56,
+    "dailyMinutesDown": {
+      "2024-04-07": 0
+    }
   },
   {
     "name": "Meetingsmappe DE / EN",
