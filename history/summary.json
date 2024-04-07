@@ -4,18 +4,20 @@
     "url": "https://anonyme-unterverdiener.de/",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 146,
-    "timeWeek": 256,
-    "timeMonth": 220,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 262,
+    "timeDay": 1235,
+    "timeWeek": 515,
+    "timeMonth": 286,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2024-04-07": 0
+    }
   },
   {
     "name": "12 Schritte",
@@ -132,18 +134,16 @@
     "slug": "meetingsmappe-deutsch",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
     "timeDay": 701,
     "timeWeek": 275,
     "timeMonth": 100,
     "timeYear": 56,
-    "dailyMinutesDown": {
-      "2024-04-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meetingsmappe DE / EN",
