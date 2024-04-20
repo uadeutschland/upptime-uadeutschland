@@ -168,9 +168,9 @@
     "url": "https://anonyme-unterverdiener.de/files/UA_Reader_new.pdf",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "ua-reader-de-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 183,
     "timeMonth": 192,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   },
   {
     "name": "Fragebogen C-PTSD",
