@@ -168,11 +168,11 @@
     "url": "https://anonyme-unterverdiener.de/files/UA_Reader_new.pdf",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "ua-reader-de-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 871,
@@ -180,7 +180,7 @@
     "timeMonth": 212,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-06-03": 5,
+      "2024-06-03": 0,
       "2024-05-28": 16
     }
   },
