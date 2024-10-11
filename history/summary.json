@@ -4,7 +4,7 @@
     "url": "https://anonyme-unterverdiener.de/",
     "icon": "https://icons.duckduckgo.com/ip3/anonyme-unterverdiener.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 359,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2024-10-11": 0,
       "2024-10-09": 28,
       "2024-04-07": 15
     }
